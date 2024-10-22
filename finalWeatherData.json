@@ -1,0 +1,253 @@
+{
+  "weatherObjectList" : [ {
+    "city" : "New York",
+    "temperature" : 16.56,
+    "humidity" : "44",
+    "conditions" : "broken clouds"
+  }, {
+    "city" : "Los Angeles",
+    "temperature" : 21.7,
+    "humidity" : "75",
+    "conditions" : "haze"
+  }, {
+    "city" : "Chicago",
+    "temperature" : 15.48,
+    "humidity" : "62",
+    "conditions" : "clear sky"
+  }, {
+    "city" : "London",
+    "temperature" : 12.3,
+    "humidity" : "89",
+    "conditions" : "broken clouds"
+  }, {
+    "city" : "Tokyo",
+    "temperature" : 18.58,
+    "humidity" : "74",
+    "conditions" : "light rain"
+  }, {
+    "city" : "Paris",
+    "temperature" : 13.07,
+    "humidity" : "96",
+    "conditions" : "overcast clouds"
+  }, {
+    "city" : "Berlin",
+    "temperature" : 15.94,
+    "humidity" : "84",
+    "conditions" : "light rain"
+  }, {
+    "city" : "Madrid",
+    "temperature" : 13.01,
+    "humidity" : "75",
+    "conditions" : "clear sky"
+  }, {
+    "city" : "Rome",
+    "temperature" : 17.48,
+    "humidity" : "66",
+    "conditions" : "clear sky"
+  }, {
+    "city" : "Toronto",
+    "temperature" : 8.58,
+    "humidity" : "72",
+    "conditions" : "clear sky"
+  }, {
+    "city" : "Sydney",
+    "temperature" : 21.41,
+    "humidity" : "54",
+    "conditions" : "scattered clouds"
+  }, {
+    "city" : "Dubai",
+    "temperature" : 29.96,
+    "humidity" : "74",
+    "conditions" : "clear sky"
+  }, {
+    "city" : "Mexico City",
+    "temperature" : 19.97,
+    "humidity" : "31",
+    "conditions" : "scattered clouds"
+  }, {
+    "city" : "São Paulo",
+    "temperature" : 17.15,
+    "humidity" : "93",
+    "conditions" : "mist"
+  }, {
+    "city" : "Buenos Aires",
+    "temperature" : 16.31,
+    "humidity" : "79",
+    "conditions" : "broken clouds"
+  }, {
+    "city" : "Cairo",
+    "temperature" : 24.42,
+    "humidity" : "83",
+    "conditions" : "clear sky"
+  }, {
+    "city" : "Mumbai",
+    "temperature" : 26.99,
+    "humidity" : "74",
+    "conditions" : "mist"
+  }, {
+    "city" : "Beijing",
+    "temperature" : 16.61,
+    "humidity" : "15",
+    "conditions" : "clear sky"
+  }, {
+    "city" : "Shanghai",
+    "temperature" : 20.92,
+    "humidity" : "60",
+    "conditions" : "overcast clouds"
+  }, {
+    "city" : "Hong Kong",
+    "temperature" : 26.42,
+    "humidity" : "66",
+    "conditions" : "clear sky"
+  }, {
+    "city" : "Singapore",
+    "temperature" : 28.65,
+    "humidity" : "82",
+    "conditions" : "broken clouds"
+  }, {
+    "city" : "Seoul",
+    "temperature" : 19.76,
+    "humidity" : "60",
+    "conditions" : "clear sky"
+  }, {
+    "city" : "Moscow",
+    "temperature" : 5.93,
+    "humidity" : "72",
+    "conditions" : "broken clouds"
+  }, {
+    "city" : "Istanbul",
+    "temperature" : 20.13,
+    "humidity" : "82",
+    "conditions" : "broken clouds"
+  }, {
+    "city" : "Johannesburg",
+    "temperature" : 13.97,
+    "humidity" : "63",
+    "conditions" : "few clouds"
+  }, {
+    "city" : "Bangkok",
+    "temperature" : 27.94,
+    "humidity" : "84",
+    "conditions" : "overcast clouds"
+  }, {
+    "city" : "Amsterdam",
+    "temperature" : 13.01,
+    "humidity" : "89",
+    "conditions" : "light rain"
+  }, {
+    "city" : "Barcelona",
+    "temperature" : 21.2,
+    "humidity" : "72",
+    "conditions" : "few clouds"
+  }, {
+    "city" : "Zurich",
+    "temperature" : 15.0,
+    "humidity" : "82",
+    "conditions" : "moderate rain"
+  }, {
+    "city" : "Vienna",
+    "temperature" : 11.74,
+    "humidity" : "90",
+    "conditions" : "clear sky"
+  }, {
+    "city" : "Prague",
+    "temperature" : 13.36,
+    "humidity" : "89",
+    "conditions" : "clear sky"
+  }, {
+    "city" : "Lisbon",
+    "temperature" : 16.68,
+    "humidity" : "84",
+    "conditions" : "few clouds"
+  }, {
+    "city" : "Athens",
+    "temperature" : 21.11,
+    "humidity" : "81",
+    "conditions" : "clear sky"
+  }, {
+    "city" : "Melbourne",
+    "temperature" : 27.45,
+    "humidity" : "90",
+    "conditions" : "overcast clouds"
+  }, {
+    "city" : "Montreal",
+    "temperature" : 8.04,
+    "humidity" : "82",
+    "conditions" : "broken clouds"
+  }, {
+    "city" : "Vancouver",
+    "temperature" : 12.67,
+    "humidity" : "83",
+    "conditions" : "heavy intensity rain"
+  }, {
+    "city" : "Houston",
+    "temperature" : 27.04,
+    "humidity" : "44",
+    "conditions" : "broken clouds"
+  }, {
+    "city" : "San Francisco",
+    "temperature" : 16.39,
+    "humidity" : "82",
+    "conditions" : "scattered clouds"
+  }, {
+    "city" : "Miami",
+    "temperature" : 28.21,
+    "humidity" : "85",
+    "conditions" : "overcast clouds"
+  }, {
+    "city" : "Dallas",
+    "temperature" : 26.86,
+    "humidity" : "38",
+    "conditions" : "clear sky"
+  }, {
+    "city" : "Jakarta",
+    "temperature" : 30.26,
+    "humidity" : "68",
+    "conditions" : "broken clouds"
+  }, {
+    "city" : "Kuala Lumpur",
+    "temperature" : 26.54,
+    "humidity" : "91",
+    "conditions" : "overcast clouds"
+  }, {
+    "city" : "Manila",
+    "temperature" : 29.89,
+    "humidity" : "79",
+    "conditions" : "few clouds"
+  }, {
+    "city" : "Lagos",
+    "temperature" : 24.09,
+    "humidity" : "95",
+    "conditions" : "overcast clouds"
+  }, {
+    "city" : "Nairobi",
+    "temperature" : 15.89,
+    "humidity" : "81",
+    "conditions" : "overcast clouds"
+  }, {
+    "city" : "Dublin",
+    "temperature" : 21.04,
+    "humidity" : "62",
+    "conditions" : "clear sky"
+  }, {
+    "city" : "Brussels",
+    "temperature" : 12.87,
+    "humidity" : "93",
+    "conditions" : "shower rain"
+  }, {
+    "city" : "Rio de Janeiro",
+    "temperature" : 21.98,
+    "humidity" : "96",
+    "conditions" : "overcast clouds"
+  }, {
+    "city" : "Warsaw",
+    "temperature" : 12.81,
+    "humidity" : "95",
+    "conditions" : "overcast clouds"
+  }, {
+    "city" : "Helsinki",
+    "temperature" : 12.15,
+    "humidity" : "86",
+    "conditions" : "broken clouds"
+  } ]
+}
