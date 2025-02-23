@@ -2,7 +2,7 @@ package org.example;
 
 public enum EnumValues {
     // Enums for defensive programming practice to hide sensitive data.
-    APIKEY("8ab9278b4129a0ef1a32ff470424a3cc"),
+    APIKEY("*********************************"),
     FINALFILE("finalWeatherData.json"),
     FILEELEMENT("weatherData.json");
 
